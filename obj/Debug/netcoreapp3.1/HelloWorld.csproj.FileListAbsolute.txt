@@ -1,0 +1,9 @@
+E:\work\src\donet\HelloWorld\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\work\src\donet\HelloWorld\bin\Debug\netcoreapp3.1\appsettings.json
+E:\work\src\donet\HelloWorld\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\work\src\donet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+E:\work\src\donet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+E:\work\src\donet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+E:\work\src\donet\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.RazorTargetAssemblyInfo.cache
+E:\work\src\donet\HelloWorld\obj\Debug\netcoreapp3.1\staticwebassets\HelloWorld.StaticWebAssets.Manifest.cache
+E:\work\src\donet\HelloWorld\obj\Debug\netcoreapp3.1\staticwebassets\HelloWorld.StaticWebAssets.xml
